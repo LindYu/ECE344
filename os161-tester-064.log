@@ -1,0 +1,21 @@
+Running all tests for Assignment 0
+Running: /cad2/ece344s/tester/scripts/asst0-01-hello.py
+Hello World
+PASS
+Mark for Hello World is 5 out of 5
+
+Running: /cad2/ece344s/tester/scripts/asst0-02-dbflags.py
+dbflags
+PASS
+PASS
+Turning on dbflags value 1
+PASS
+Turning off dbflags value 1
+PASS
+Turning on dbflags value 5
+PASS
+Turning on dbflags value 13
+PASS
+Mark for dbflags is 6 out of 6
+
+You received 11 marks out of 11

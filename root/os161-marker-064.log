@@ -1,0 +1,5 @@
+Checking out repo for os-064
+~/ece344/root ~/ece344/root
+svn: E170000: URL 'svn+ssh://ug250.eecg.utoronto.ca/srv/ece344s/os-064/svn/tags/asst1-end/kern' doesn't exist
+~/ece344/root
+Stopping tester

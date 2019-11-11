@@ -1,0 +1,34 @@
+Running all tests for Assignment 1
+Running: /cad2/ece344s/tester/scripts/asst1-01-lock.py
+lock
+lock
+lock
+lock
+lock
+lock
+lock
+lock
+lock
+lock
+PASS
+Mark for lock is 10 out of 10
+
+Running: /cad2/ece344s/tester/scripts/asst1-02-cv.py
+condition variable
+PASS
+Mark for condition variable is 10 out of 10
+
+Running: /cad2/ece344s/tester/scripts/asst1-03-cat.py
+cat/mouse using semaphores
+TIMEOUT ERROR
+cat/mouse using locks
+PASS
+Mark for cat/mouse using locks is 25 out of 25
+
+Running: /cad2/ece344s/tester/scripts/asst1-04-stoplight.py
+stoplight
+TIMEOUT ERROR
+FAIL
+Mark for stoplight is 45 out of 50
+
+You received 90 marks out of 95
